@@ -1,0 +1,89 @@
+
+body{
+    
+   font-family: tahoma, arial, sans-serif;
+    margin: 0;
+   padding: 0;  
+     color:black;  
+    background-image: url(..//imagem/344435-svetik_1920x1080.jpg);
+    font-size: 22px;
+                font-family: sans-serif;
+                width: 1000px;
+                margin: auto;                
+                background-attachment: fixed;
+                background-size: cover;
+                background-repeat: repeat;
+                background-position: right bottom;
+   
+}
+
+header-nav{
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 100%;
+    
+}
+
+.header-nav ul{
+    margin:50;
+    padding: 0;
+}
+
+.header-nav li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 0 15px 0 0;
+    padding: 13px;
+}
+
+.header-nav a{
+    color:cadetblue;
+    text-decoration: none;
+    text-transform:uppercase;
+    font-size: 12px;
+    letter-spacing: 5px;
+    transition: color .3s linear ;
+   
+   
+   
+}
+
+.header-nav a:hover{
+    
+    color:wheat;
+}
+    
+
+
+.h1{    
+    color:darkolivegreen;
+    margin:auto;
+    text-align: center;
+}
+
+#bu{
+    
+    color:rgba(125, 34, 230, 0.97);
+    font-size: 30px;
+   
+        
+}
+
+#gt{
+    
+    font-size:30px;
+}
+   
+#busca{
+    color:red;
+   font-size: 30px;
+}
+
+.g{
+     text-transform: uppercase;
+    font-size: 50px;
+    text-shadow: 4px 3px 5px red;
+    color:antiquewhite;
+    text-align: center;
+}
